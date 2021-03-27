@@ -1,0 +1,97 @@
+body{
+    
+
+
+
+}
+.top{
+    background-color: rgba(52, 183, 235, 0.2);
+    height: 700px;
+    border: 1px solid;
+   
+}
+.textbox{
+    height: 70px;
+    width: 250px;
+    border: 1px solid;
+    background-color: gray;
+    position: relative;
+    top: 100px; 
+    left: 90px;
+
+}
+.name{
+    height: 30px;
+    width: 250px;
+    border: 1px solid;
+    background-color: gray;
+    position: relative;
+    top: 10px; 
+    left: 0px;
+
+}
+.say{
+    height: 30px;
+    width: 250px;
+    border: 1px solid;
+    background-color: gray;
+    position: relative;
+    top: 10px; 
+    left: 0px;
+
+}
+
+.pic1{
+    height: 250px;
+    width: 250px;
+    position: relative;
+    left: 0px;
+    bottom: 550px;
+
+}
+.pic{
+    position: relative;
+    left: 300px;
+    bottom: 250px;
+}
+
+
+.buttom{
+    background-color: rgb(105, 137, 150);
+    width: 700px;
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: rgb(37, 73, 59);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.box-img{
+    border-radius: 80%;
+    width: 200px;
+    height: 200px;
+
+}
+
+.buttom h1{
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+
+}
+
+.buttom h5{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+
+}
+
+.buttom p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    word-spacing: 4px;
+}
+
+
+
